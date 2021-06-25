@@ -1,9 +1,10 @@
 # This is Git's per-user configuration file.
 [user]
-    name = Brian Balsamo
-    email = Brian@BrianBalsamo.com 
+    name = Chemputer
+    email = 46601333+chemputer@users.noreply.github.com 
 
 [core]
+    editor = nano
     excludesfile = ~/.gitignore_global
 [pull]
     ff = only
